@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd3b4f89-4502-45d2-89f3-777fdb01c975" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_10/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_10/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_11/destruct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_11/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_12/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_12/re.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_13/console.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_13/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_14/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_14/try.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_15/class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_15/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_16/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_16/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_17/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_17/storage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_18/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_18/promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_19/closure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_19/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_2/search_match.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_2/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_20/cleanup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_20/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_3/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_4/operator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_5/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_6/loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_7/function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_8/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_8/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_9/callback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/Day_9/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30DaysJS/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_10/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_10/set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_11/destruct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_11/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_12/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_12/re.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_13/console.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_13/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_14/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_14/try.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_15/class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_15/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_16/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_16/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_17/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_17/storage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_18/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_18/promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_19/closure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_19/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_2/search_match.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_2/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_20/cleanup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_20/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_3/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_4/operator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_5/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_6/loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_7/function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_8/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_8/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_9/callback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/Day_9/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_days_JS/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_20/cleanup.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day_20/cleanup.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b1159015-01f4-4523-8a08-ddd41cb0d07a" />
+        <option name="url" value="https://github.com/sag-dhruv/30_Days_JS.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MtvdzyNgX4CFQjJPM4I2rXnbMN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd3b4f89-4502-45d2-89f3-777fdb01c975" name="Changes" comment="" />
+      <created>1678599784323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678599784323</updated>
+      <workItem from="1678599785591" duration="1940000" />
+      <workItem from="1678601749539" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
